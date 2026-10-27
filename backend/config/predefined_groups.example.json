@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "group_code": "CSE-S5-A",
+      "semester_number": 5,
+      "academic_year_name": "REPLACE_WITH_CONFIRMED_EXISTING_ACADEMIC_YEAR",
+      "group_name": "S5-A",
+      "student_count": 72
+    },
+    {
+      "group_code": "CSE-S5-B",
+      "semester_number": 5,
+      "academic_year_name": "REPLACE_WITH_CONFIRMED_EXISTING_ACADEMIC_YEAR",
+      "group_name": "S5-B",
+      "student_count": 72
+    }
+  ]
+}
